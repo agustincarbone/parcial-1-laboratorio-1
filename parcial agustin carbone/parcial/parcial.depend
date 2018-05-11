@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1525989939 source:c:\users\alumno\desktop\parcial agustin carbone\parcial\fcliente.c
+	<stdio.h>
+	<stdlib.h>
+	"fCliente.h"
+
+1525989746 c:\users\alumno\desktop\parcial agustin carbone\parcial\fcliente.h
+
+1525994983 source:d:\parcial agustin carbone\parcial\fcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+	"fCliente.h"
+
+1525993421 d:\parcial agustin carbone\parcial\fcliente.h
+
+1525996704 source:d:\parcial agustin carbone\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fCliente.h"
+	"fGets.h"
+	"publicacion.h"
+
+1525994014 source:d:\parcial agustin carbone\parcial\fgets.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+
+1525993982 d:\parcial agustin carbone\parcial\fgets.h
+
+1525996198 d:\parcial agustin carbone\parcial\publicacion.h
+
