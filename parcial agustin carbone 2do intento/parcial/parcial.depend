@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1525989939 source:c:\users\alumno\desktop\parcial agustin carbone\parcial\fcliente.c
+	<stdio.h>
+	<stdlib.h>
+	"fCliente.h"
+
+1525989746 c:\users\alumno\desktop\parcial agustin carbone\parcial\fcliente.h
+
+1525999109 source:d:\parcial agustin carbone\parcial\fcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+	"fCliente.h"
+
+1525993421 d:\parcial agustin carbone\parcial\fcliente.h
+
+1525996991 source:d:\parcial agustin carbone\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fCliente.h"
+	"fGets.h"
+	"publicacion.h"
+
+1525994014 source:d:\parcial agustin carbone\parcial\fgets.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+
+1525993982 d:\parcial agustin carbone\parcial\fgets.h
+
+1525998330 d:\parcial agustin carbone\parcial\publicacion.h
+	"fCliente.h"
+
+1526326388 source:d:\programacion 1\parcial agustin carbone\parcial\fcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+	"fCliente.h"
+
+1526321664 d:\programacion 1\parcial agustin carbone\parcial\fgets.h
+
+1526322306 d:\programacion 1\parcial agustin carbone\parcial\fcliente.h
+
+1526326066 source:d:\programacion 1\parcial agustin carbone\parcial\fgets.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+
+1526322730 source:d:\programacion 1\parcial agustin carbone\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"publicacion.h"
+	"fGets.h"
+	"fCliente.h"
+
+1526322570 d:\programacion 1\parcial agustin carbone\parcial\publicacion.h
+	"fCliente.h"
+
+1526323916 source:d:\programacion 1\parcial agustin carbone\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fCliente.h"
+	"fGets.h"
+	"publicacion.h"
+
+1526504340 source:c:\users\agust\desktop\parcial agustin carbone\parcial\fgets.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+
+1526504340 c:\users\agust\desktop\parcial agustin carbone\parcial\fgets.h
+
+1526585128 source:c:\users\agust\desktop\parcial agustin carbone\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fCliente.h"
+	"fGets.H"
+	"publicacion.h"
+	"informes.h"
+
+1526583205 c:\users\agust\desktop\parcial agustin carbone\parcial\fcliente.h
+
+1526583205 c:\users\agust\desktop\parcial agustin carbone\parcial\publicacion.h
+	"fCliente.h"
+
+1526583205 source:c:\users\agust\desktop\parcial agustin carbone\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"publicacion.h"
+	"fGets.h"
+	"fCliente.h"
+
+1526586942 source:c:\users\agust\desktop\parcial agustin carbone\parcial\fcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+	"fCliente.h"
+
+1526504340 source:f:\programacion 1\parcial agustin carbone\parcial\fgets.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+
+1526504340 f:\programacion 1\parcial agustin carbone\parcial\fgets.h
+
+1526504340 source:f:\programacion 1\parcial agustin carbone\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fCliente.h"
+	"fGets.h"
+	"publicacion.h"
+
+1526504340 f:\programacion 1\parcial agustin carbone\parcial\fcliente.h
+
+1526504340 f:\programacion 1\parcial agustin carbone\parcial\publicacion.h
+	"fCliente.h"
+
+1526504340 source:f:\programacion 1\parcial agustin carbone\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"publicacion.h"
+	"fGets.h"
+	"fCliente.h"
+
+1526510542 source:f:\programacion 1\parcial agustin carbone\parcial\fcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fGets.h"
+	"fCliente.h"
+
+1526587023 source:c:\users\agust\desktop\parcial agustin carbone\parcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fCliente.h"
+	"fGets.h"
+	"publicacion.h"
+
+1526583887 c:\users\agust\desktop\parcial agustin carbone\parcial\informes.h
+
